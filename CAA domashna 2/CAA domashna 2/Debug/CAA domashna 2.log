@@ -1,0 +1,4 @@
+﻿  Source.c
+c:\users\hristov\documents\visual studio 2013\projects\caa domashna 2\caa domashna 2\source.c(6): warning C4033: 'recursion' must return a value
+c:\users\hristov\documents\visual studio 2013\projects\caa domashna 2\caa domashna 2\source.c(13): warning C4716: 'recursion' : must return a value
+  CAA domashna 2.vcxproj -> c:\users\hristov\documents\visual studio 2013\Projects\CAA domashna 2\Debug\CAA domashna 2.exe
